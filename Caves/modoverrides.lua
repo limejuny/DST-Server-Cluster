@@ -1,5 +1,6 @@
 return {
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
+  ["workshop-462434129"]={ configuration_options={  }, enabled=true },
   ["workshop-375859599"]={
     configuration_options={
       divider=5,

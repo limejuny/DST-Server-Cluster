@@ -25,4 +25,5 @@ ServerModSetup("375859599")
 -- Simple Health Bar
 ServerModSetup("1207269058")
 
-
+-- Restart
+ServerModSetup("462434129")
